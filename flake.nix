@@ -3,34 +3,42 @@
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     sf-pro = {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg";
+      hash = "1my6ckdclw699h3yw5jbgmni4bqib9v86d5y4rcafcppcwxw5yn8";
       flake = false;
     };
     sf-compact = {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg";
+      hash = "031jjw4livg00gw78y3rx4xm892nwkx1inm0ji53c4ggfmlgbnjf";
       flake = false;
     };
     sf-mono = {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg";
+      hash = "0ibrk9fvbq52f5qnv1a8xlsazd3x3jnwwhpn2gwhdkdawdw0njkd";
       flake = false;
     };
     sf-arabic = {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Arabic.dmg";
+      hash = "1fcpa488vx3xj9f9hq70gxj4qbgcjaijwz2i94n02xrba0nwcq17";
       flake = false;
     };
     sf-armenian = {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Armenian.dmg";
+      hash = "1bddbz380a6lixmxdcrb1fsrnxw485i88js37yz1bhnpjfp1bmzz";
       flake = false;
     };
     sf-georgian = {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Georgian.dmg";
+      hash = "1lm2j19ypvaf6lx7zyz89xkn14i9r0daa7ik8lj269ib8yc1fsy1";
       flake = false;
     };
     sf-hebrew = {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Hebrew.dmg";
+      hash = "114k1dnyvjamz9xizk2x0rqabsmf31rbzns1jigg9g5q2l3y8n1j";
       flake = false;
     };
     ny = {
       url = "https://devimages-cdn.apple.com/design/resources/download/NY.dmg";
+      hash = "1x7qi3dqwq1p4l3md31cd93mcds3ba7rgsmpz0kg7h3caasfsbhw";
       flake = false;
     };
   };
